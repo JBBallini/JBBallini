@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Peluquería Canina</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://imgur.com/qiGn5Wj" width="400" alt="Peluquería Canina"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://imgur.com/qiGn5Wj.jpg" width="400" alt="Peluquería Canina"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
