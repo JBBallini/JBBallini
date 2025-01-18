@@ -9,7 +9,6 @@
 - :telescope: Me gusta aprender y conocer sobre todo
 - :video_game: Gamer
 - :coffee: Adicto al café
-<br>
 
 ## Mis Proyectos
 <table>
