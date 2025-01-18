@@ -1,11 +1,12 @@
 <div align="center">
-<h1 align="center">Hola, soy Juan Bautista Ballini 👋</h1>
+<h1 align="center">¡Hola! Soy Juan Bautista Ballini 👋</h1>
 </div>
 
 ## Sobre mi
 
 - :book: Estudiante Universitario de Analista en Sistemas
 - :computer: Aprendiendo Java - Backend
+- :telescope: Me gusta aprender y conocer sobre todo
 - :video_game: Gamer
 - :coffee: Adicto al café
 
