@@ -31,7 +31,7 @@
                <br>
 <h3 align="center">Gestión de Automóviles</h3>
 <div align="center">                                       
-<a href="https://github.com/JBBallini/Concesionaria-de-Automoviles" target="_blank"><img src="https://imgur.com/35LwP0Z.jpg" width="400" alt="Gestión de Automóviles"></a>
+<a href="https://github.com/JBBallini/Concesionaria-de-Automoviles" target="_blank"><img src="https://imgur.com/35LwP0Z.jpg" width="400" height="250" alt="Gestión de Automóviles"></a>
 <br>
 <p>
 <a href="https://github.com/JBBallini/Concesionaria-de-Automoviles" target="_blank">
@@ -49,7 +49,7 @@
 <td width="50%">
 <h3 align="center">Página de Películas</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://imgur.com/oeQDwO8.jpg" width="400" alt="Página de Películas"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://imgur.com/oeQDwO8.jpg" width="400" height="250" alt="Página de Películas"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -63,7 +63,7 @@
 <td width="50%">
 <h3 align="center">Prácticas Programación</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://imgur.com/W6ddKlL.jpg" width="400" alt="Prácticas Programación"></a>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://imgur.com/W6ddKlL.jpg" width="400" height="250" alt="Prácticas Programación"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
