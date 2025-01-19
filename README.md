@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Desarrollo de una aplicación de escritorio para gestionar una peluquería canina.</p>
+<p>Desarrollo de una aplicación de escritorio con JAVA para gestionar una peluquería canina.</p>
 </div>
                                                                                       
 </td>
@@ -31,14 +31,14 @@
                <br>
 <h3 align="center">Gestión de Automóviles</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://imgur.com/35LwP0Z.jpg" width="400" alt="Gestión de Automóviles"></a>
+<a href="https://github.com/JBBallini/Concesionaria-de-Automoviles" target="_blank"><img src="https://imgur.com/35LwP0Z.jpg" width="400" alt="Gestión de Automóviles"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/JBBallini/Concesionaria-de-Automoviles" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p> Desarrollo de una aplicación de escritorio con JAVA para gestionar una concesionaria de autos. </p>
 </div>                                                             
 </table>                                                                                 
 </div>
