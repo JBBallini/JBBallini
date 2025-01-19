@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Peluquería Canina</h3>
 <div align="center">
-<a href="https://github.com/JBBallini/Peluqueria-Canina" target="_blank"><img src="https://imgur.com/qiGn5Wj.jpg" width="400" height="250" alt="Peluquería Canina"></a>
+<a href="https://github.com/JBBallini/Peluqueria-Canina" target="_blank"><img src="https://imgur.com/qiGn5Wj.jpg" width="400" height="200" alt="Peluquería Canina"></a>
 <p>
 <a href="https://github.com/JBBallini/Peluqueria-Canina" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -31,7 +31,7 @@
                <br>
 <h3 align="center">Gestión de Automóviles</h3>
 <div align="center">                                       
-<a href="https://github.com/JBBallini/Concesionaria-de-Automoviles" target="_blank"><img src="https://imgur.com/35LwP0Z.jpg" width="400" height="250" alt="Gestión de Automóviles"></a>
+<a href="https://github.com/JBBallini/Concesionaria-de-Automoviles" target="_blank"><img src="https://imgur.com/35LwP0Z.jpg" width="400" height="200" alt="Gestión de Automóviles"></a>
 <br>
 <p>
 <a href="https://github.com/JBBallini/Concesionaria-de-Automoviles" target="_blank">
@@ -49,13 +49,13 @@
 <td width="50%">
 <h3 align="center">Página de Películas</h3>
 <div align="center">
-<a href="https://github.com/JBBallini/Web-Peliculas" target="_blank"><img src="https://imgur.com/oeQDwO8.jpg" width="400" height="250" alt="Página de Películas"></a>
+<a href="https://github.com/JBBallini/Web-Peliculas" target="_blank"><img src="https://imgur.com/oeQDwO8.jpg" width="400" height="200"" alt="Página de Películas"></a>
 <p>
 <a href="https://github.com/JBBallini/Web-Peliculas" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Desafío Web realizado en el "Curso de Java - CodoACodo".</p>
+<p> Desafío Web realizado en el <strong>"Curso de Java - CodoACodo"</strong>.</p>
 </div>
                                                                                       
 </td>       
@@ -63,7 +63,7 @@
 <td width="50%">
 <h3 align="center">Prácticas Programación</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://imgur.com/W6ddKlL.jpg" width="400" height="250" alt="Prácticas Programación"></a>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://imgur.com/W6ddKlL.jpg" width="400" height="200" alt="Prácticas Programación"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
