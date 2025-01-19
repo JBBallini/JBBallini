@@ -18,7 +18,7 @@
 <div align="center">
 <a href="https://github.com/JBBallini/Peluqueria-Canina" target="_blank"><img src="https://imgur.com/qiGn5Wj.jpg" width="400" alt="Peluquería Canina"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/JBBallini/Peluqueria-Canina" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
