@@ -49,13 +49,13 @@
 <td width="50%">
 <h3 align="center">Página de Películas</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://imgur.com/oeQDwO8.jpg" width="400" height="250" alt="Página de Películas"></a>
+<a href="https://github.com/JBBallini/Web-Peliculas" target="_blank"><img src="https://imgur.com/oeQDwO8.jpg" width="400" height="250" alt="Página de Películas"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/JBBallini/Web-Peliculas" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Desafío Web realizado en el "Curso de Java - CodoACodo".</p>
 </div>
                                                                                       
 </td>       
