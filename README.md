@@ -61,15 +61,15 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Prácticas Programación</h3>
+<h3 align="center">Sistema de Administracion de Usuarios</h3>
 <div align="center">
-<a href="https://github.com/JBBallini/Ejercicios-Logicos-y-POO" target="_blank"><img src="https://imgur.com/R5beEFX.jpg" width="400" height="250" alt="Prácticas Programación"></a>
+<a href="https://github.com/JBBallini/Sistema-de-Administracion-de-Usuarios" target="_blank"><img src="https://imgur.com/R5beEFX.jpg" width="400" height="250" alt="Sistema de Administracion de Usuarios"></a>
 <p>
-<a href="https://github.com/JBBallini/Ejercicios-Logicos-y-POO" target="_blank">
+<a href="https://github.com/JBBallini/Sistema-de-Administracion-de-Usuarios" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p> Mis prácticas para entrenar lógica de programación.</p>
+<p>Desarrollo de un sistema escalable para la administración y gestión de usuarios con diferentes roles.</p>
 </div>
                                                                                       
 </td>  
