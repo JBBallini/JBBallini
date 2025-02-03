@@ -63,7 +63,7 @@
 <td width="50%">
 <h3 align="center">Prácticas Programación</h3>
 <div align="center">
-<a href="https://github.com/JBBallini/Ejercicios-Logicos-y-POO" target="_blank"><img src="https://imgur.com/W6ddKlL.jpg" width="400" height="250" alt="Prácticas Programación"></a>
+<a href="https://github.com/JBBallini/Ejercicios-Logicos-y-POO" target="_blank"><img src="https://imgur.com/a/XcaXPuy" width="400" height="250" alt="Prácticas Programación"></a>
 <p>
 <a href="https://github.com/JBBallini/Ejercicios-Logicos-y-POO" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
